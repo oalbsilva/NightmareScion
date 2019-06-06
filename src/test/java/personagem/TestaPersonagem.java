@@ -2,13 +2,12 @@ package personagem;
 
 import Matheus.projetoUm.Axe;
 import Matheus.projetoUm.Druid;
-import Matheus.projetoUm.FalconWand;
-import Matheus.projetoUm.Item;
 import Matheus.projetoUm.Knight;
 import Matheus.projetoUm.Paladin;
 import Matheus.projetoUm.Personagem;
 import Matheus.projetoUm.Sorcerer;
-import Matheus.projetoUm.Wand;
+import br.nighmateresion.model.item.wand.FalconWand;
+import br.nighmateresion.model.item.wand.Wand;
 import junit.framework.TestCase;
 
 public class TestaPersonagem extends TestCase {

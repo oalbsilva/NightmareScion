@@ -1,5 +1,7 @@
 package Matheus.projetoUm;
 
+import br.nighmateresion.model.item.Item;
+
 public class Sword extends Item implements ArmaDeMao {
 
 	protected void name() {

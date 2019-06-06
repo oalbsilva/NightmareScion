@@ -1,4 +1,5 @@
-package Matheus.projetoUm;
+package br.nighmateresion.model.item.wand;
+
 
 public class WandDragonbreath extends Wand {
 	

@@ -1,4 +1,7 @@
-package Matheus.projetoUm;
+package br.nighmateresion.model.item.wand;
+
+import Matheus.projetoUm.ArmaDeMao;
+import br.nighmateresion.model.item.Item;
 
 public abstract class Wand extends Item implements ArmaDeMao {
 
