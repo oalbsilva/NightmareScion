@@ -1,5 +1,7 @@
 package Matheus.projetoUm;
 
+import br.nighmateresion.model.item.Item;
+
 public class Axe extends Item {
 	
 	private int bonusAxeFighting = 0;
