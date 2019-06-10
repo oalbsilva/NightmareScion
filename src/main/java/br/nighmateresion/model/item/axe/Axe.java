@@ -1,4 +1,4 @@
-package Matheus.projetoUm;
+package br.nighmateresion.model.item.axe;
 
 import br.nighmateresion.model.item.Item;
 

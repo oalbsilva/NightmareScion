@@ -1,5 +1,6 @@
-package Matheus.projetoUm;
+package br.nighmateresion.model.item.sword;
 
+import Matheus.projetoUm.ArmaDeMao;
 import br.nighmateresion.model.item.Item;
 
 public class Sword extends Item implements ArmaDeMao {

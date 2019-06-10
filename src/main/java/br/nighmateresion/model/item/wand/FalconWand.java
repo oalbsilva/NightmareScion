@@ -1,7 +1,7 @@
 package br.nighmateresion.model.item.wand;
 
 import Matheus.projetoUm.BonusMagicLevel;
-import Matheus.projetoUm.DoisSlotImbui;
+import br.nighmateresion.model.imbui.DoisSlotImbui;
 
 public class FalconWand extends Wand implements BonusMagicLevel, DoisSlotImbui {
 
@@ -15,12 +15,14 @@ public class FalconWand extends Wand implements BonusMagicLevel, DoisSlotImbui {
 		return 3;
 	}
 
-	public void slotDois() {
-
+	public void slotUm() {
+		// TODO Auto-generated method stub
+		
 	}
 
-	public void slotUm() {
-
+	public void slotDois() {
+		// TODO Auto-generated method stub
+		
 	}
 
 }

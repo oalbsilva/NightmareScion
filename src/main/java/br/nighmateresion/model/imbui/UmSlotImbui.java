@@ -1,4 +1,4 @@
-package Matheus.projetoUm;
+package br.nighmateresion.model.imbui;
 
 public interface UmSlotImbui {
 

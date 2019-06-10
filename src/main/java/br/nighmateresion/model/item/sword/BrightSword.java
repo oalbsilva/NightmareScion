@@ -1,4 +1,6 @@
-package Matheus.projetoUm;
+package br.nighmateresion.model.item.sword;
+
+import br.nighmateresion.model.imbui.DoisSlotImbui;
 
 public class BrightSword extends Sword implements DoisSlotImbui {
 
